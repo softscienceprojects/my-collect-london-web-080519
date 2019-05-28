@@ -3,7 +3,7 @@ def my_collect(args)
   my_statements = []
 
   while i < args.length
-    yield my_statements
+    yield args[i]
     i +=1
   end
   my_statements
