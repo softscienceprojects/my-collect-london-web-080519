@@ -6,5 +6,5 @@ def my_collect(args)
     my_statements << args
     i +=1
   end
-  my_statements
+  args
 end
