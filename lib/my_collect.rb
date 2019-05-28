@@ -4,6 +4,7 @@ def my_collect(args)
 
   while i < args.length
     my_statements << args[i]
+    yield args[i]
     i +=1
   end
   my_statements
