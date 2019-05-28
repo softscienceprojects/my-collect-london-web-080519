@@ -3,8 +3,7 @@ def my_collect(args, mod)
   my_statements = []
 
   while i < args.length
-    args.mod
     i +=1
   end
-  args
+  args.mod
 end
