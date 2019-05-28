@@ -1,4 +1,4 @@
-def my_collect(args, mod)
+def my_collect(args)
   i = 0
   my_statements = []
 
