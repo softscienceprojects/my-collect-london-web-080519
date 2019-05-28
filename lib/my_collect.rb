@@ -6,4 +6,5 @@ def my_collect(args)
     i +=1
   end
   #return the transformation
+  my_collect
 end
