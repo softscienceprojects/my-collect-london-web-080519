@@ -5,4 +5,5 @@ def my_collect(args)
     #do something
     i +=1
   end
+  args
 end
