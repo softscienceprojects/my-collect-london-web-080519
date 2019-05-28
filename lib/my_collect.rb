@@ -1,10 +1,9 @@
-def my_collect(args)
-  i = 0
-  my_statements = []
+def my_collect(args) 
+  i = 0 #start the counter
 
-  while i < args.length
+  while i < args.length 
     yield args[i]
     i +=1
   end
-  my_statements
+  #return the transformation
 end
