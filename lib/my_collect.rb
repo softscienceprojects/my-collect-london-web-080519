@@ -3,5 +3,6 @@ def my_collect(args)
 
   while i < args.length
     #do something
+    i +=1
   end
 end
