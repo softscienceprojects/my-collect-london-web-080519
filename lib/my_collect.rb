@@ -1,5 +1,6 @@
 def my_collect(args)
   i = 0
+  my_statements = []
   my_statements << args
 
   while i < args.length
