@@ -7,5 +7,5 @@ def my_collect(args)
     yield my_statements[i]
     i +=1
   end
-  
+
 end
